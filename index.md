@@ -14,3 +14,10 @@ Enter the web address of the data file.  Give the data set a name.  Leave the bo
 
 ## Loading Data into R from GitHub
 
+Type the following command: 
+
+FileName <- read.csv(URL)
+
+For example, 
+
+2_1_Problem
