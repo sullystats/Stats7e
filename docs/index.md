@@ -22,3 +22,6 @@ For example,
 
 Prob29 <- read.csv("https://sullystats.github.io/Stats7e/Data/Ch2/2_2_29.csv")
 
+|Chapter|
+|---|
+|[Chapter 1](https://sullys |https://
