@@ -24,4 +24,4 @@ Prob29 <- read.csv("https://sullystats.github.io/Stats7e/Data/Ch2/2_2_29.csv")
 
 |Chapter|Section|Problem/Example|URL|
 |---|
-|[Chapter 1](https://sullys |https://
+[Chapter 1](https://sullystats.github.io/Stats7e/Chapter_1.md)
