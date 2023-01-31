@@ -20,4 +20,4 @@ FileName <- read.csv(URL)
 
 For example, 
 
-2_1_Problem
+Prob29 <- read.csv("https://sullystats.github.io/Stats7e/Data/Ch2/2_2_29.csv")
