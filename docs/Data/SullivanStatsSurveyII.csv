@@ -1,4 +1,4 @@
-Response_id,Gender,Age,Education,Tax Rate,GenderIncomeInequality,MinWageOpinion,MinWageAmount,Political Philosophy,Text,RetirementDollars,RetirementAge,DeathAge
+Response_id,Gender,Age,Education,Tax Rate,SexIncomeInequality,MinWageOpinion,MinWageAmount,Political Philosophy,Text,RetirementDollars,RetirementAge,DeathAge
 290408,Female,19,Some College,10,No,Yes,10,Moderate,Yes,1200000,65,90
 290410,Female,18,Some College,10,Yes,Yes,9,Conservative,No,350000,61,105
 290412,Female,21,Some College,10,Yes,Yes,9.5,Liberal,Yes,1000000,60,90
