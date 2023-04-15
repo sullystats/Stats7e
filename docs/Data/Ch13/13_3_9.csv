@@ -1,0 +1,26 @@
+Block,Treatment,Cost
+Brakes,Enclave,381
+Brakes,Mustang,427
+Brakes,Accord,333
+Brakes,Camry,348
+Brakes,Outback,424
+Coolant Flush,Enclave,174
+Coolant Flush,Mustang,183
+Coolant Flush,Accord,171
+Coolant Flush,Camry,182
+Coolant Flush,Outback,211
+Spark Plugs,Enclave,370
+Spark Plugs,Mustang,359
+Spark Plugs,Accord,306
+Spark Plugs,Camry,214
+Spark Plugs,Outback,415
+Water Pump,Enclave,816
+Water Pump,Mustang,728
+Water Pump,Accord,752
+Water Pump,Camry,675
+Water Pump,Outback,857
+Oil Change,Enclave,92
+Oil Change,Mustang,95
+Oil Change,Accord,68
+Oil Change,Camry,70
+Oil Change,Outback,113
