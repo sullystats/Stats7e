@@ -2,7 +2,7 @@ Here is the data for Chapter 2.
 
 |Section|Problem|URL|
 |:---:|:---:|:---:|7
-|1|13|<a>https://sullystats.github.io/Statse/Data/Ch2/2_1_13.csv</a><br/>|
+|1|13|<a>https://sullystats.github.io/Stats7e/Data/Ch2/2_1_13.csv</a><br/>|
 |1|14|<a>https://sullystats.github.io/Stats7e/Data/Ch2/2_1_14.csv</a><br/>|
 |1|15|<a>https://sullystats.github.io/Stats7e/Data/Ch2/2_1_15.csv</a><br/>|
 |1|16|<a>https://sullystats.github.io/Stats7e/Data/Ch2/2_1_16.csv</a><br/>|
