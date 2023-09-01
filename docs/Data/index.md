@@ -2,6 +2,6 @@
 
 |Section|
 |:---:|
-|Chapter 1|
-|Chapter 2|
-|Chapter 3|
+|Chapter 1 Data Collection|
+|Chapter 2 Organizing and Summarizing Data|
+|Chapter 3 Numerically Summarizing Data|
