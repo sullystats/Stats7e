@@ -1,6 +1,6 @@
 ### Click on the chapter to access the data. 
 
-|Section|
+|Chapter|
 |:---:|
 |Chapter 1 Data Collection|
 |Chapter 2 Organizing and Summarizing Data|
