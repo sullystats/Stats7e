@@ -48,3 +48,18 @@ Here is the data for Chapter 3.
 |3|[13](https://sullystats.github.io/Stats7e/Data/Ch3/3_3_13.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_3_13.csv</a><br/>|
 |3|[14](https://sullystats.github.io/Stats7e/Data/Ch3/3_3_14.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_3_14.csv</a><br/>|
 | | |
+|4|[21](https://sullystats.github.io/Stats7e/Data/Ch3/3_4_21.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_4_21.csv</a><br/>|
+|4|[22](https://sullystats.github.io/Stats7e/Data/Ch3/3_4_22.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_4_22.csv</a><br/>|
+|4|[23](https://sullystats.github.io/Stats7e/Data/Ch3/3_4_23.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_4_23.csv</a><br/>|
+|4|[24](https://sullystats.github.io/Stats7e/Data/Ch3/3_4_24.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_4_24.csv</a><br/>|
+|4|[25](https://sullystats.github.io/Stats7e/Data/Ch3/3_4_25.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_4_25.csv</a><br/>|
+|4|[26](https://sullystats.github.io/Stats7e/Data/Ch3/3_4_26.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_4_26.csv</a><br/>|
+|4|[27](https://sullystats.github.io/Stats7e/Data/Ch3/3_4_27.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_4_27.csv</a><br/>|
+|4|[28](https://sullystats.github.io/Stats7e/Data/Ch3/3_4_28.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_4_28.csv</a><br/>|
+|2|[29](https://sullystats.github.io/Stats7e/Data/Tornadoes_1950-2020.csv)|<a>https://sullystats.github.io/Stats7e/Data/Tornadoes_1950-2020.csv</a><br/>|
+|2|[30](https://sullystats.github.io/Stats7e/Data/Health_Nutrition.csv)|<a>https://sullystats.github.io/Stats7e/Data/Health_Nutrition.csv</a><br/>|
+| | |
+|4|[9](https://sullystats.github.io/Stats7e/Data/Ch3/3_5_9.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_5_9.csv</a><br/>|
+|4|[10](https://sullystats.github.io/Stats7e/Data/Ch3/3_5_10.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_5_10.csv</a><br/>|
+|4|[11](https://sullystats.github.io/Stats7e/Data/Ch3/3_5_11.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_5_11.csv</a><br/>|
+|4|[9](https://sullystats.github.io/Stats7e/Data/Ch3/3_5_9.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_5_9.csv</a><br/>|
