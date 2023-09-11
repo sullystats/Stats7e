@@ -4,7 +4,7 @@ Here is the data for Chapter 2.
 |:---:|:---:|:---:|
 |1|[13](https://sullystats.github.io/Stats7e/Data/Ch2/2_1_13.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch2/2_1_13.csv</a><br/>|
 |1|[14](https://sullystats.github.io/Stats7e/Data/Ch2/2_1_14.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch2/2_1_14.csv</a><br/>|
-|1|[15]()https://sullystats.github.io/Stats7e/Data/Ch2/2_1_15.csv|<a>https://sullystats.github.io/Stats7e/Data/Ch2/2_1_15.csv</a><br/>|
+|1|[15](https://sullystats.github.io/Stats7e/Data/Ch2/2_1_15.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch2/2_1_15.csv</a><br/>|
 |1|[16](https://sullystats.github.io/Stats7e/Data/Ch2/2_1_16.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch2/2_1_16.csv</a><br/>|
 |1|[17](https://sullystats.github.io/Stats7e/Data/Ch2/2_1_17.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch2/2_1_17.csv</a><br/>|
 |1|[18](https://sullystats.github.io/Stats7e/Data/Ch2/2_1_18.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch2/2_1_18.csv</a><br/>|
