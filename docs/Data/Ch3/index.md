@@ -18,3 +18,5 @@ Here is the data for Chapter 3.
 |1|[41](https://sullystats.github.io/Stats7e/Data/Tornadoes_1950-2020.csv)|<a>https://sullystats.github.io/Stats7e/Data/Tornadoes_1950-2020.csv</a><br/>|
 |1|[42](https://sullystats.github.io/Stats7e/Data/Health_Nutrition.csv)|<a>https://sullystats.github.io/Stats7e/Data/Health_Nutrition.csv</a><br/>|
 |1|[43](https://sullystats.github.io/Stats7e/Data/Ch3/3_1_43.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_1_43.csv</a><br/>|
+| | |
+|2|[19](https://sullystats.github.io/Stats7e/Data/Ch3/3_1_19.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_1_19.csv</a><br/>|
