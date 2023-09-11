@@ -19,7 +19,7 @@ Here is the data for Chapter 2.
 |1|[27](https://sullystats.github.io/Stats7e/Data/Health_Nutrition.csv)|<a>https://sullystats.github.io/Stats7e/Data/Health_Nutrition.csv</a><br/>|
 |1|[28](https://sullystats.github.io/Stats7e/Data/HomeRuns2022.csv)|<a>https://sullystats.github.io/Stats7e/Data/HomeRuns2022.csv</a><br/>|
 | | |
-|2|15|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_2_15.csv</a><br/>|
+|2|[15](https://sullystats.github.io/Stats7e/Data/Ch2/2_2_15.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch2/2_2_15.csv</a><br/>|
 |2|16|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_2_16.csv</a><br/>|
 |2|21|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_2_21.csv</a><br/>|
 |2|22|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_2_22.csv</a><br/>|
