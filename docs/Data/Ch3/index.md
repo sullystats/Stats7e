@@ -20,3 +20,8 @@ Here is the data for Chapter 3.
 |1|[43](https://sullystats.github.io/Stats7e/Data/Ch3/3_1_43.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_1_43.csv</a><br/>|
 | | |
 |2|[19](https://sullystats.github.io/Stats7e/Data/Ch3/3_1_19.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_1_19.csv</a><br/>|
+|2|[20](https://sullystats.github.io/Stats7e/Data/Ch3/3_1_20.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_1_20.csv</a><br/>|
+|2|[21](https://sullystats.github.io/Stats7e/Data/Ch3/3_1_21.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_1_21.csv</a><br/>|
+
+
+
