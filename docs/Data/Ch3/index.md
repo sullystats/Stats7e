@@ -56,10 +56,19 @@ Here is the data for Chapter 3.
 |4|[26](https://sullystats.github.io/Stats7e/Data/Ch3/3_4_26.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_4_26.csv</a><br/>|
 |4|[27](https://sullystats.github.io/Stats7e/Data/Ch3/3_4_27.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_4_27.csv</a><br/>|
 |4|[28](https://sullystats.github.io/Stats7e/Data/Ch3/3_4_28.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_4_28.csv</a><br/>|
-|2|[29](https://sullystats.github.io/Stats7e/Data/Tornadoes_1950-2020.csv)|<a>https://sullystats.github.io/Stats7e/Data/Tornadoes_1950-2020.csv</a><br/>|
-|2|[30](https://sullystats.github.io/Stats7e/Data/Health_Nutrition.csv)|<a>https://sullystats.github.io/Stats7e/Data/Health_Nutrition.csv</a><br/>|
+|5|[29](https://sullystats.github.io/Stats7e/Data/Tornadoes_1950-2020.csv)|<a>https://sullystats.github.io/Stats7e/Data/Tornadoes_1950-2020.csv</a><br/>|
+|5|[30](https://sullystats.github.io/Stats7e/Data/Health_Nutrition.csv)|<a>https://sullystats.github.io/Stats7e/Data/Health_Nutrition.csv</a><br/>|
 | | |
-|4|[9](https://sullystats.github.io/Stats7e/Data/Ch3/3_5_9.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_5_9.csv</a><br/>|
-|4|[10](https://sullystats.github.io/Stats7e/Data/Ch3/3_5_10.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_5_10.csv</a><br/>|
-|4|[11](https://sullystats.github.io/Stats7e/Data/Ch3/3_5_11.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_5_11.csv</a><br/>|
-|4|[9](https://sullystats.github.io/Stats7e/Data/Ch3/3_5_9.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_5_9.csv</a><br/>|
+|5|[9](https://sullystats.github.io/Stats7e/Data/Ch3/3_5_9.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_5_9.csv</a><br/>|
+|5|[10](https://sullystats.github.io/Stats7e/Data/Ch3/3_5_10.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_5_10.csv</a><br/>|
+|5|[11](https://sullystats.github.io/Stats7e/Data/Ch3/3_5_11.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_5_11.csv</a><br/>|
+|5|[12](https://sullystats.github.io/Stats7e/Data/Ch3/3_5_12.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_5_12.csv</a><br/>|
+|5|[13](https://sullystats.github.io/Stats7e/Data/Ch3/3_5_13.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_5_13.csv</a><br/>|
+|5|[14](https://sullystats.github.io/Stats7e/Data/Ch3/3_5_14.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_5_14.csv</a><br/>|
+|5|[15](https://sullystats.github.io/Stats7e/Data/Ch3/3_5_15.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_5_15.csv</a><br/>|
+|5|[16](https://sullystats.github.io/Stats7e/Data/Ch3/3_5_16.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_5_16.csv</a><br/>|
+|5|[17](https://sullystats.github.io/Stats7e/Data/Ch3/3_5_17.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_5_17.csv</a><br/>|
+|5|[18](https://sullystats.github.io/Stats7e/Data/Ch3/3_5_18.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_5_18.csv</a><br/>|
+|5|[19](https://sullystats.github.io/Stats7e/Data/Ch3/3_5_19.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch3/3_5_19.csv</a><br/>|
+|5|[20](https://sullystats.github.io/Stats7e/Data/Tornadoes_1950-2020.csv)|<a>https://sullystats.github.io/Stats7e/Data/Tornadoes_1950-2020.csv</a><br/>|
+|5|[21](https://sullystats.github.io/Stats7e/Data/Health_Nutrition.csv)|<a>https://sullystats.github.io/Stats7e/Data/Health_Nutrition.csv</a><br/>|
