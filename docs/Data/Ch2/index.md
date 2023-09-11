@@ -35,16 +35,8 @@ Here is the data for Chapter 2.
 |2|[34](https://sullystats.github.io/Stats7e/Data/Health_Nutrition.csv)|<a>https://sullystats.github.io/Stats7e/Data/Health_Nutrition.csv</a><br/>|
 |2|[35](https://sullystats.github.io/Stats7e/Data/Ch2/2_2_35.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch2/2_2_35.csv</a><br/>|
 |2|[36](https://sullystats.github.io/Stats7e/Data/Ch2/2_2_36.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch2/2_2_36.csv</a><br/>|
-
-|2|26|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_2_26.csv</a><br/>|
-|2|27|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_2_27.csv</a><br/>|
-|2|28|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_2_28.csv</a><br/>|
-|2|29|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_2_29.csv</a><br/>|
-|2|32|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_2_32.csv</a><br/>|
-|2|33|<a>https://sullystats.github.io/Statistics6e/Data/Tornadoes_2017.csv</a><br/>|
-|2|34|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_2_34.csv</a><br/>|
-|2|35|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_2_35.csv</a><br/>|
 | | |
+|3|[15](https://sullystats.github.io/Stats7e/Data/Ch2/2_3_15.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch2/2_3_15.csv</a><br/>|
 |3|15|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_3_15.csv</a><br/>|
 |3|16|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_3_16.csv</a><br/>|
 |3|17|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_3_17.csv</a><br/>|
