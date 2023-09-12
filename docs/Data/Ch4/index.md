@@ -48,3 +48,19 @@ Here is the data for Chapter 4.
 |3|[32](https://sullystats.github.io/Stats7e/Data/Health_Nutrition.csv)|<a>https://sullystats.github.io/Stats7e/Data/Health_Nutrition.csv</a><br/>|
 |3|[33](https://sullystats.github.io/Stats7e/Data/Ch4/4_3_33.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch4/4_3_33.csv</a><br/>|
 |3|[34](https://sullystats.github.io/Stats7e/Data/Ch4/4_3_34.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch4/4_3_34.csv</a><br/>|
+| | |
+|5|[39](https://sullystats.github.io/Stats7e/Data/Ch4/4_5_39.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch4/4_5_39.csv</a><br/>|
+|5|[40](https://sullystats.github.io/Stats7e/Data/Ch4/4_5_40.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch4/4_5_40.csv</a><br/>|
+|5|[41](https://sullystats.github.io/Stats7e/Data/Ch4/4_5_41.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch4/4_5_41.csv</a><br/>|
+|5|[43](https://sullystats.github.io/Stats7e/Data/Ch4/4_5_43.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch4/4_5_43.csv</a><br/>|
+|5|[44](https://sullystats.github.io/Stats7e/Data/Ch4/4_5_44.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch4/4_5_44.csv</a><br/>|
+|5|[45](https://sullystats.github.io/Stats7e/Data/Ch4/4_5_45.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch4/4_5_45.csv</a><br/>|
+|5|[46](https://sullystats.github.io/Stats7e/Data/Ch4/4_5_46.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch4/4_5_46.csv</a><br/>|
+|5|[47](https://sullystats.github.io/Stats7e/Data/Ch4/4_5_47.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch4/4_5_47.csv</a><br/>|
+| | |
+|Chapter Review|[2](https://sullystats.github.io/Stats7e/Data/Ch4/4_r_2.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch4/4_r_2.csv</a><br/>|
+|Chapter Review|[3](https://sullystats.github.io/Stats7e/Data/Ch4/4_r_3.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch4/4_r_3.csv</a><br/>|
+|Chapter Review|[13](https://sullystats.github.io/Stats7e/Data/Ch4/4_r_13.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch4/4_r_13.csv</a><br/>|
+| | |
+|Chapter Test|[1](https://sullystats.github.io/Stats7e/Data/Ch4/4_ct_1.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch4/4_ct_1.csv</a><br/>|
+|Chapter Test|[5](https://sullystats.github.io/Stats7e/Data/Ch4/4_ct_5.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch4/4_ct_5.csv</a><br/>|
