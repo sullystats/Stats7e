@@ -29,8 +29,10 @@ Here is the data for Chapter 4.
 |2|[20](https://sullystats.github.io/Stats7e/Data/Ch4/4_2_20.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch4/4_2_20.csv</a><br/>|
 |2|[21](https://sullystats.github.io/Stats7e/Data/Ch4/4_2_21.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch4/4_2_21.csv</a><br/>|
 |2|[22](https://sullystats.github.io/Stats7e/Data/Ch4/4_2_22.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch4/4_2_22.csv</a><br/>|
+|2|[23](https://sullystats.github.io/Stats7e/Data/Ch4/4_2_23.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch4/4_2_23.csv</a><br/>|
 |2|[24](https://sullystats.github.io/Stats7e/Data/Ch4/4_2_24.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch4/4_2_24.csv</a><br/>|
 |2|[27](https://sullystats.github.io/Stats7e/Data/Ch4/4_2_27.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch4/4_2_27.csv</a><br/>|
 |2|[28](https://sullystats.github.io/Stats7e/Data/Ch4/4_2_28.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch4/4_2_28.csv</a><br/>|
 |2|[29](https://sullystats.github.io/Stats7e/Data/Ch4/4_2_29.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch4/4_2_29.csv</a><br/>|
 |2|[30](https://sullystats.github.io/Stats7e/Data/Ch4/4_2_30.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch4/4_2_30.csv</a><br/>|
+| | |
