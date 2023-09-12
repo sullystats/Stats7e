@@ -1,4 +1,4 @@
-Here is the data for Chapter 5.
+Here is the data for Chapter 6.
 
 |Section|Problem|URL|
 |:---:|:---:|:---:|
