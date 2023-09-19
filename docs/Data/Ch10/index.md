@@ -37,5 +37,5 @@ Here is the data for Chapter 10.
 |3B|[30(d)](https://sullystats.github.io/Stats7e/Data/Ch10/10_3B_30d.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch10/10_3B_30d.csv</a><br/>|
 |3B|[33 and 34](https://sullystats.github.io/Stats7e/Data/Ch10/ChicagoTaxi.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch10/ChicagoTaxi.csv</a><br/>|
 | | |
-
+|4|[14](https://sullystats.github.io/Stats7e/Data/Ch10/10_4_14.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch10/10_4_14.csv</a><br/>|
                                                                                                                                                
