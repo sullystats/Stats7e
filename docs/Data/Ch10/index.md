@@ -45,4 +45,4 @@ Here is the data for Chapter 10.
 |5|[22](https://sullystats.github.io/Stats7e/Data/Ch10/10_5_22.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch10/10_5_22.csv</a><br/>|
 |5|[24](https://sullystats.github.io/Stats7e/Data/Ch10/10_5_24.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch10/10_5_24.csv</a><br/>|
 | | |
-|Chapter Review|[22](https://sullystats.github.io/Stats7e/Data/Ch10/10_r_15.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch10/10_r_15.csv</a><br/>|
+|Chapter Review|[15](https://sullystats.github.io/Stats7e/Data/Ch10/10_r_15.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch10/10_r_15.csv</a><br/>|
