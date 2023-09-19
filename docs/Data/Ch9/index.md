@@ -19,3 +19,6 @@ Here is the data for Chapter 9.
 |1|[44(d)](https://sullystats.github.io/Stats7e/Data/Ch9/9_2_44d.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch9/9_2_44d.csv</a><br/>|
 |1|[48](https://sullystats.github.io/Stats7e/Data/Ch9/9_2_48.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch9/9_2_48.csv</a><br/>|
 | | |
+|1|[15](https://sullystats.github.io/Stats7e/Data/Ch9/9_3_15.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch9/9_3_15.csv</a><br/>|
+|1|[16](https://sullystats.github.io/Stats7e/Data/Ch9/9_3_16.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch9/9_3_16.csv</a><br/>|
+| | |
