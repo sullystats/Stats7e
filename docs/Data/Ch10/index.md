@@ -40,4 +40,9 @@ Here is the data for Chapter 10.
 |4|[14](https://sullystats.github.io/Stats7e/Data/Ch10/10_4_14.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch10/10_4_14.csv</a><br/>|
 |4|[17](https://sullystats.github.io/Stats7e/Data/Ch10/10_4_17.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch10/10_4_17.csv</a><br/>|
 | | |                                                                                                                                               
-|5|[14](https://sullystats.github.io/Stats7e/Data/Ch10/10_5_14.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch10/10_5_14.csv</a><br/>|
+|5|[14](https://sullystats.github.io/Stats7e/Data/SullivanStatsSurveyI.csv)|<a>https://sullystats.github.io/Stats7e/Data/SullivanStatsSurveyI.csv</a><br/>|
+|5|[17](https://sullystats.github.io/Stats7e/Data/Ch10/10_5_17.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch10/10_5_17.csv</a><br/>|
+|5|[22](https://sullystats.github.io/Stats7e/Data/Ch10/10_5_22.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch10/10_5_22.csv</a><br/>|
+|5|[24](https://sullystats.github.io/Stats7e/Data/Ch10/10_5_24.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch10/10_5_24.csv</a><br/>|
+| | |
+|Chapter Review|[22](https://sullystats.github.io/Stats7e/Data/Ch10/10_r_15.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch10/10_r_15.csv</a><br/>|
