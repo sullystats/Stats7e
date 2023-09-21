@@ -31,3 +31,15 @@ Here is the data for Chapter 11.
 |2A|[7](https://sullystats.github.io/Stats7e/Data/Ch11/11_2A_7.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch11/11_2A_7.csv</a><br/>|
 | | |
 |2B|[3](https://sullystats.github.io/Stats7e/Data/Ch11/11_2B_3.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch11/11_2B_3.csv</a><br/>|
+|2B|[4](https://sullystats.github.io/Stats7e/Data/Ch11/11_2B_4.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch11/11_2B_4.csv</a><br/>|
+|2B|[7](https://sullystats.github.io/Stats7e/Data/Ch11/11_2B_7.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch11/11_2B_7.csv</a><br/>|
+|2B|[10](https://sullystats.github.io/Stats7e/Data/Ch11/11_2B_10.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch11/11_2B_10.csv</a><br/>|
+|2B|[11](https://sullystats.github.io/Stats7e/Data/Ch11/11_2B_11.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch11/11_2B_11.csv</a><br/>|
+|2B|[12](https://sullystats.github.io/Stats7e/Data/Ch11/11_2B_12.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch11/11_2B_12.csv</a><br/>|
+|2B|[13](https://sullystats.github.io/Stats7e/Data/Ch11/11_2B_13.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch11/11_2B_13.csv</a><br/>|
+|2B|[14](https://sullystats.github.io/Stats7e/Data/Ch11/11_2B_14.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch11/11_2B_14.csv</a><br/>|
+|2B|[15](https://sullystats.github.io/Stats7e/Data/Ch11/11_2B_15.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch11/11_2B_15.csv</a><br/>|
+|2B|[16](https://sullystats.github.io/Stats7e/Data/Ch11/11_2B_16.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch11/11_2B_16.csv</a><br/>|
+|2B|[17](https://sullystats.github.io/Stats7e/Data/Ch11/11_2B_17.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch11/11_2B_17.csv</a><br/>|
+|2B|[18](https://sullystats.github.io/Stats7e/Data/Ch11/11_2B_18.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch11/11_2B_18.csv</a><br/>|
+|2B|[19](https://sullystats.github.io/Stats7e/Data/Ch11/11_2B_19.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch11/11_2B_19.csv</a><br/>|
