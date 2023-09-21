@@ -24,3 +24,4 @@ Here is the data for Chapter 11.
 |2|[18](https://sullystats.github.io/Stats7e/Data/Ch11/11_2_18.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch11/11_2_18.csv</a><br/>|
 |2|[19](https://sullystats.github.io/Stats7e/Data/Ch11/11_2_19.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch11/11_2_19.csv</a><br/>|
 | | |
+|2|[3](https://sullystats.github.io/Stats7e/Data/Ch11/11_2_3.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch11/11_2_3.csv</a><br/>|
