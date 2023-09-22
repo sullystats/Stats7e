@@ -83,4 +83,10 @@ Here is the data for Chapter 11.
 |5|[14](https://sullystats.github.io/Stats7e/Data/Ch11/11_5_14.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch11/11_5_14.csv</a><br/>|
 |5|[20](https://sullystats.github.io/Stats7e/Data/Ch11/11_5_20.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch11/11_5_20.csv</a><br/>|
 | | |
-|Chapter Review|[12](https://sullystats.github.io/Stats7e/Data/Ch11/11_5_12.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch11/11_5_12.csv</a><br/>|
+|Chapter Review|[4](https://sullystats.github.io/Stats7e/Data/Ch11/11_r_4.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch11/11_r_4.csv</a><br/>|
+|Chapter Review|[8](https://sullystats.github.io/Stats7e/Data/Ch11/11_r_8.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch11/11_r_8.csv</a><br/>|
+|Chapter Review|[9](https://sullystats.github.io/Stats7e/Data/Ch11/11_r_9.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch11/11_r_9.csv</a><br/>|
+| | |
+|Chapter Test|[3](https://sullystats.github.io/Stats7e/Data/Ch11/11_ct_3.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch11/11_ct_3.csv</a><br/>|
+|Chapter Test|[7](https://sullystats.github.io/Stats7e/Data/Ch11/11_ct_7.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch11/11_ct_7.csv</a><br/>|
+|Chapter Test|[9](https://sullystats.github.io/Stats7e/Data/Ch11/11_ct_9.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch11/11_ct_9.csv</a><br/>|
