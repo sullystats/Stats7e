@@ -18,4 +18,5 @@ Here is the data for Chapter 12.
 |1|[28](https://sullystats.github.io/Stats7e/Data/Ch12/13_1_28.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch12/13_1_28.csv</a><br/>|
 |1|[29](https://sullystats.github.io/Stats7e/Data/Ch12/13_1_29.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch12/13_1_29.csv</a><br/>|
 |1|[30](https://sullystats.github.io/Stats7e/Data/Ch12/13_1_30.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch12/13_1_30.csv</a><br/>|
-|1|[31](https://sullystats.github.io/Stats7e/Data/Ch12/13_1_31.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch12/13_1_31.csv</a><br/>|
+| | |
+
