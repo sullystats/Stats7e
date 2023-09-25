@@ -85,4 +85,14 @@ Here is the data for Chapter 14.
 |6|[6](https://sullystats.github.io/Stats7e/Data/Ch12/14_6_6.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch12/14_6_6.csv</a><br/>|
 |6|[7](https://sullystats.github.io/Stats7e/Data/Ch12/14_6_7.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch12/14_6_7.csv</a><br/>|
 |6|[8](https://sullystats.github.io/Stats7e/Data/Ch12/14_6_8.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch12/14_6_8.csv</a><br/>|
-|
+| | |
+|Chapter Review|[2](https://sullystats.github.io/Stats7e/Data/Ch12/14_r_2.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch12/14_r_2.csv</a><br/>|
+|Chapter Review|[3](https://sullystats.github.io/Stats7e/Data/Ch12/14_r_3.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch12/14_r_3.csv</a><br/>|
+|Chapter Review|[4](https://sullystats.github.io/Stats7e/Data/Ch12/14_r_4.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch12/14_r_4.csv</a><br/>|
+|Chapter Review|[5](https://sullystats.github.io/Stats7e/Data/Ch12/14_r_5.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch12/14_r_5.csv</a><br/>|
+|Chapter Review|[7](https://sullystats.github.io/Stats7e/Data/Ch12/14_r_7.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch12/14_r_7.csv</a><br/>|
+| | |
+|Chapter Test|[2](https://sullystats.github.io/Stats7e/Data/Ch12/14_ct_2.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch12/14_ct_2.csv</a><br/>|
+|Chapter Test|[3](https://sullystats.github.io/Stats7e/Data/Ch12/14_ct_3.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch12/14_ct_3.csv</a><br/>|
+|Chapter Test|[4](https://sullystats.github.io/Stats7e/Data/Ch12/14_ct_4.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch12/14_ct_4.csv</a><br/>|
+|Chapter Test|[6](https://sullystats.github.io/Stats7e/Data/Ch12/14_ct_6.csv)|<a>https://sullystats.github.io/Stats7e/Data/Ch12/14_ct_6.csv</a><br/>|
